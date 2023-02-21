@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Hammad",
+      "address": "banigala",
+      "email": "hammadalibu@gmail.com",
+      "contact": "03045360339"
+    },
+    {
+      "id": 2,
+      "name": "umer",
+      "address": "Rawalpindi",
+      "email": "umer@gmail.com",
+      "contact": "12345678911"
+    },
+    {
+      "id": 3,
+      "name": "saad",
+      "address": "Karachi",
+      "email": "saad@gmail.com",
+      "contact": "5432678543"
+    },
+    {
+      "name": "hammad ali",
+      "email": "h2@gmail.com",
+      "contact": "0943853",
+      "address": "banigala islamabad",
+      "id": 4
+    }
+  ]
+}
